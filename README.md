@@ -224,9 +224,7 @@ If using backend:
 2. Check `VITE_API_URL` in frontend `.env`
 3. Frontend automatically falls back to direct API if backend unavailable
 
-## 📝 License
 
-MIT
 
 ## 🙏 Acknowledgments
 
@@ -236,4 +234,5 @@ MIT
 ---
 
 **Happy Tracking! 📈**
+**Done By Sejda Abd**
 
