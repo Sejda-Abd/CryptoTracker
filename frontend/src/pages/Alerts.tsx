@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useCrypto, PriceAlert } from '../context/CryptoContext'
+import { useCrypto } from '../context/CryptoContext'
 import { Plus, Trash2, Bell, BellOff } from 'lucide-react'
 
 export default function Alerts() {
